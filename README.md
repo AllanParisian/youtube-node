@@ -1,6 +1,6 @@
-# youtube-node [![Dependency Status](https://david-dm.org/paulomcnally/youtube-node.png)](https://david-dm.org/paulomcnally/youtube-node) [![NPM version](https://badge.fury.io/js/youtube-node.png)](http://badge.fury.io/js/youtube-node)
+##youtube-node [*[Dependency Status](https://david-dm.org/paulomcnally/youtube-node.png)](https://david-dm.org/paulomcnally/youtube-node) [*[NPM version](https://badge.fury.io/js/youtube-node.png)](http://badge.fury.io/js/youtube-node)
 
-[![NPM](https://nodei.co/npm/youtube-node.png?downloads=true)](https://nodei.co/npm/youtube-node/)
+[*[NPM](https://nodei.co/npm/youtube-node.png?downloads=true)](https://nodei.co/npm/youtube-node/)
 
 * YouTube API v3 - Require key ([video](https://www.youtube.com/watch?v=Im69kzhpR3I))
 * CLI
@@ -104,3 +104,4 @@ To set an optional parameter use:
 
 ## Those who use it?
 * [http://sync.club/](http://sync.club/#dev-session)
+ 
